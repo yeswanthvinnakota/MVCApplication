@@ -1,0 +1,5 @@
+GROUP_BY_FILE=true
+GROUP_BY_HIERARCH=true
+GROUP_BY_RULE=true
+GROUP_BY_SEVERITY=true
+eclipse.preferences.version=1

@@ -1,0 +1,15 @@
+
+public class TestDemo extends Demo {
+	
+	public TestDemo(){
+		super();
+		System.out.println("i'm from TestDemo default constructor");
+	}
+	
+	public TestDemo(int a) {
+		super(10);
+		System.out.println("im from TestDemo single parameterized constructor");
+		
+	}
+
+}
